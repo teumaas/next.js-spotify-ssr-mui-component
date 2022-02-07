@@ -1,6 +1,7 @@
 export type NowPlayingSong = {
   album: string;
   albumImageUrl: string;
+  albumUrl: string;
   artist: string;
   isPlaying: boolean;
   songUrl: string;

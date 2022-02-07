@@ -24,10 +24,10 @@ export default async function handler(
     .join(", ");
   const album = song.item.album.name;
   const albumImageUrl = song.item.album.images[0].url;
+  const albumUrl = song.item.album.href;
   const songUrl = song.item.external_urls.spotify;
   const songDuration = song.item.duration_ms;
   const songDurationProgress = song.progress_ms;
-
   res.setHeader(
     "Cache-Control",
     "public, s-maxage=60, stale-while-revalidate=30"
@@ -36,6 +36,7 @@ export default async function handler(
   return res.status(200).json({
     album,
     albumImageUrl,
+    albumUrl,
     artist,
     isPlaying,
     songUrl,
