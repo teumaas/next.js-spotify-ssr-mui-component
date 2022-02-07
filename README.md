@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) and MUI Spotify SSR component that show
 
 ## Sreenshots
 
-<img src="https://tomsmits.nl/assets/component-1png">
+<img src="https://tomsmits.nl/assets/component-1.png">
 
 <img src="https://tomsmits.nl/assets/component-2.png">
 
