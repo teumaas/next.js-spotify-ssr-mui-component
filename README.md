@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) and MUI Spotify SSR component that shows your current playing song on Spotify.
 
+**Demo:** http://next-js-spotify-ssr-mui-component.vercel.app/
+
 ## Sreenshots
 
 <img src="https://tomsmits.nl/assets/spotify.png">
