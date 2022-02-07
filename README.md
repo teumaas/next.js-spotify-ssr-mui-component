@@ -1,8 +1,10 @@
 This is a [Next.js](https://nextjs.org/) and MUI Spotify SSR component that shows your current playing song on Spotify.
 
-## Sreenshot
+## Sreenshots
 
 <img src="https://tomsmits.nl/assets/spotify.png">
+
+<img src="https://tomsmits.nl/assets/spotify2.png">
 
 ## Getting Started
 
