@@ -48,7 +48,7 @@ export default function NowPlaying() {
             color="text.secondary"
             component="div"
           >
-            {data?.isPlaying ?? ""}
+            {data?.isPlaying ? data?.artist : ""}
           </Typography>
 
           <Box
