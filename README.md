@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) and MUI Spotify SSR component that shows your current playing song on Spotify.
+This is a [Next.js](https://github.com/vercel/next.js), [MUI](https://github.com/mui/material-ui) Spotify Web API component using [SWR](https://github.com/vercel/swr) for (SSR) Server-side Rendering. Shows a current playing song on Spotify.
 
 **Demo:** [http://next-js-spotify-ssr-mui-component.vercel.app](http://next-js-spotify-ssr-mui-component.vercel.app)
 
