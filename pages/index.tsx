@@ -15,7 +15,7 @@ const Home: NextPage = () => {
           flexDirection: "column",
           justifyContent: "center",
           alignItems: "center",
-          minHeight: "100vh",
+          minHeight: "90vh",
         }}
       >
         <NowPlaying />
