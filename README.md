@@ -1,12 +1,12 @@
-This is a [Next.js](https://github.com/vercel/next.js), [MUI](https://github.com/mui/material-ui) Spotify Web API component using [SWR](https://github.com/vercel/swr) for (SSR) Server-side Rendering. Shows a current playing song on Spotify.
+This is a [Next.js](https://github.com/vercel/next.js), [MUI](https://github.com/mui/material-ui) Spotify Web API component using [SWR](https://github.com/vercel/swr) for auto updating. Shows a current playing song on Spotify.
 
 **Demo:** [http://next-js-spotify-ssr-mui-component.vercel.app](http://next-js-spotify-ssr-mui-component.vercel.app)
 
 ## Sreenshots
 
-<img src="https://tomsmits.nl/assets/component-1.png">
+<img src="https://tomsmits.nl/assets/component1.png">
 
-<img src="https://tomsmits.nl/assets/component-2.png">
+<img src="https://tomsmits.nl/assets/component2.png">
 
 ## Getting Started
 
