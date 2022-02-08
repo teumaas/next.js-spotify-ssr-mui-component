@@ -26,7 +26,7 @@ export default function NowPlaying() {
 
   return (
     <Card sx={{ display: "flex" }}>
-      <Box sx={{ display: "flex", flexDirection: "column" }}>
+      <Box sx={{ display: "flex", flexDirection: "column", minWidth: "200px" }}>
         <CardContent sx={{ flex: "1 0 auto" }}>
           {data?.isPlaying ? (
             <Typography component="div" variant="h5">
