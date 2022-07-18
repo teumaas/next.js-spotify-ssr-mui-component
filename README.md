@@ -4,9 +4,9 @@ This is a [Next.js](https://github.com/vercel/next.js), [MUI](https://github.com
 
 ## Sreenshots
 
-<img src="https://tomsmits.nl/assets/component1.png">
+<img src="https://tomsmits.nl/assets/screenshot-spotify-1.png">
 
-<img src="https://tomsmits.nl/assets/component2.png">
+<img src="https://tomsmits.nl/assets/screenshot-spotify-2.png">
 
 ## Getting Started
 
